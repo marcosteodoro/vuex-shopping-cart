@@ -1,4 +1,6 @@
-# shopping-cart
+# A Vue and Vuex shopping cart implementation
+
+Implementation sample to understand de state and store shared between components
 
 > A Vue.js project
 
